@@ -50,7 +50,7 @@ We welcome contributions from everyone! Here’s how you can help:
 
 ## Contact Us
 
-For partnerships, press, or other inquiries, please email us at [contact@unitydovetoken.org](mailto:contact@unitydovetoken.org).
+For partnerships, press, or other inquiries, please email us at [contact@unitydovetoken.org](mailto:contact@unitydovetoken.com).
 
 ## Disclaimer
 
